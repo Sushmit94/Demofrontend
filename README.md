@@ -39,4 +39,4 @@ Summarize verdict:  Likely True / Misleading /  Fake.
 
 Explain “why” in simple local languages (Hindi, Bengali, Tamil, etc.).
 
-we can build this also ig and can add some more functionality too
+
