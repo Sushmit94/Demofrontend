@@ -23,3 +23,19 @@ git clone https://github.com/skools-here/GenAI-Hackathon.
 npm install
 
 npm run dev
+
+## AI Fact-Check Assistant (Multi-modal)
+
+Users paste a WhatsApp forward, tweet, or news link → AI analyzes it.
+
+Steps:
+
+Extract claims (LLM).
+
+Cross-check with Google Fact Check Tools API / trusted news datasets.
+
+Summarize verdict:  Likely True / Misleading /  Fake.
+
+Explain “why” in simple local languages (Hindi, Bengali, Tamil, etc.).
+
+we can build this also ig and can add some more functionality too
