@@ -24,7 +24,8 @@ npm install
 
 npm run dev
 
-## AI Fact-Check Assistant (Multi-modal)
+ ```
+##  AI Fact-Check Assistant (Multi-modal)
 
 Users paste a WhatsApp forward, tweet, or news link → AI analyzes it.
 
